@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="La_Tienda.vcxproj" Id="075fa444-d6cf-4a2f-bed7-79cfecf65818" />
+</Solution>
