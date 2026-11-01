@@ -16,9 +16,9 @@ Una aplicación de consola que registra la cantidad y el precio de un producto p
 
 ## Captura de pantalla del programa en ejecución
 
-![Ejecución de La Tienda, ejemplo No.1](.\Ejecucion_del_programa_Extra.png)
-![Ejecución de La Tienda, ejemplo No.2](.\Ejecucion_del_programa_2.png)
-![Ejecución de La Tienda, ejemplo extra](.\Ejecucion_del_programa_Extra.png)
+![Ejecución de La Tienda, ejemplo No.1](Ejecucion_del_programa_1.png)
+![Ejecución de La Tienda, ejemplo No.2](Ejecucion_del_programa_2.png)
+![Ejecución de La Tienda, ejemplo extra](Ejecucion_del_programa_Extra.png)
 
 ## Estructura utilizada y su función
 Para este desarrollo utilicé la descomposición mediante funciones y procedimientos, dividiendo el problema en piezas más pequeñas en lugar de escribir todo de golpe en el `main`:
