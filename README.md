@@ -15,9 +15,11 @@ Una aplicación de consola que registra la cantidad y el precio de un producto p
 - **Datos de Salida:** Impresión en pantalla del monto total final a pagar.
 
 ## Captura de pantalla del programa en ejecución
-
+### Ejemplo No.1
 ![Ejecución de La Tienda, ejemplo No.1](Ejecucion_del_programa_1.png)
+### Ejemplo No.2
 ![Ejecución de La Tienda, ejemplo No.2](Ejecucion_del_programa_2.png)
+### Ejempplo No.3
 ![Ejecución de La Tienda, ejemplo extra](Ejecucion_del_programa_Extra.png)
 
 ## Estructura utilizada y su función
