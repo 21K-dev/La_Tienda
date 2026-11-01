@@ -1,13 +1,13 @@
-# Ejercicio: La Tienda
+# Ejercicio: LA TIENDA
 
-## Datos del Estudiante
+## Datos del estudiante
 - **Nombre:** Kelvin Alberto Santana Beltre.
-- **Matrícula:** [ 2025-2485 ].
+- **Matrícula:** *[2025-2485]*.
 
 ## Descripción breve del programa
 Una aplicación de consola que registra la cantidad y el precio de un producto para calcular el total de una venta, aplicando automáticamente un 10% de descuento si el monto total alcanza o supera los 5,000.
 
-## Lógica del Programa
+## Lógica del programa
 - **Datos de entrada:** Cantidad de productos y precio por unidad (valores enteros).
 - **Datos que procesa:** 
   - Cálculo del total (multiplicación de cantidad por precio).
@@ -24,4 +24,4 @@ Una aplicación de consola que registra la cantidad y el precio de un producto p
 
 ## Estructura utilizada y su función
 Para este desarrollo utilicé la descomposición mediante funciones y procedimientos, dividiendo el problema en piezas más pequeñas en lugar de escribir todo de golpe en el `main`:
-- **Función con retorno (`int calcularTotalDePago`):** La utilicé para encerrar el cálculo . Recibe los parámetros, realiza la multiplicación y utiliza una estructura condicional **`if`** para evaluar si aplica el descuento, retornando únicamente el valor final ya procesado.
+- **Función con retorno (`int calcularTotalDePago`):** La utilicé para encerrar el cálculo . Recibe los parámetros, realiza la multiplicación y utiliza una estructura condicional **`if`** para evaluar si aplica el descuento, entregando únicamente el valor final ya procesado.
